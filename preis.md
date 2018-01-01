@@ -4,7 +4,7 @@
 
 ---
 
-*Diskutiere [hier](https://github.com/susai-org/preis/issues), verfolge die Geschichte dieser Ausschreibung [hier](https://github.com/susai-org/preis/commits) und mache (https://github.com/susai-org/preis/edit/master/preis.md) Änderungsvorschläge [hier].*
+*Diskutiere [hier](https://github.com/susai-org/preis/issues), verfolge die Geschichte dieser Ausschreibung [hier](https://github.com/susai-org/preis/commits) und mache  Änderungsvorschläge [hier](https://github.com/susai-org/preis/edit/master/preis.md).*
 
 ---
 
