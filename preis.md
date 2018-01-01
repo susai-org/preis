@@ -2,7 +2,11 @@
 
 **Preiswürdige Ideen zur Förderung der nachhaltigen Entwicklung künstlicher Intelligenz**
 
-*Verfolgen Sie [hier](https://github.com/susai-org/preis/commits) die Geschichte dieser Ausschreibung oder tragen Sie [hier](https://github.com/susai-org/preis/edit/master/preis.md) zu Ihrer Entwicklung bei.*
+---
+
+*Diskutiere [hier](https://github.com/susai-org/preis/issues), verfolge die Geschichte dieser Ausschreibung [hier](https://github.com/susai-org/preis/commits) und mache [hier](https://github.com/susai-org/preis/edit/master/preis.md) Änderungsvorschläge.*
+
+---
 
 Daß Künstliche Intelligenz (KI) einen Beitrag zur Lösung technologischer und wissenschaftlicher Probleme leisten kann, steht außer Frage.
 Die KI-basierte Diagnose von Krankheiten, das Erkennen und Übersetzen menschlicher Sprache, die energetische Optimierung industrieller Anlagen und anderes gehören bereits jetzt zum Alltag und die Entwicklung schreitet rasch voran.
