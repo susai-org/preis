@@ -10,14 +10,14 @@
 
 Dass Künstliche Intelligenz (KI) einen Beitrag zur Lösung technologischer und wissenschaftlicher Probleme leisten kann, steht außer Frage.
 Die KI-basierte Diagnose von Krankheiten, das Erkennen und Übersetzen menschlicher Sprache, die energetische Optimierung industrieller Anlagen und anderes gehören bereits jetzt zum Alltag und die Entwicklung schreitet rasch voran.
-Doch vor allem in Zeiten des rapiden technologischen Wandels, fragiler politischer Konstitutionen und sozialer Umbrüche, müssen auch die gesellschaftlichen Auswirkungen technologischer Entwicklung bedacht werden.
+Doch vor allem in Zeiten des rapiden technologischen Wandels, fragiler politischer Konstitutionen und sozialer Umbrüche müssen auch die gesellschaftlichen Auswirkungen technologischer Entwicklung bedacht werden.
 
-Wir stehen am Anfang der KI Technologie, ähnlich wie in der Gentechnologie der 1970er Jahre.
-Es gilt als anerkannt, dass durch die Erarbeitung eines Regelkatalogs ([Asilomar Konferenz zu Genetik, 1975](https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA)), die Einführung von Ethikkommissionen und anderen Maßnahmen das sich andeutende Gefahrenpotential der Gentechnologie erfolgreich unter Kontrolle gebracht wurde.
-Ähnlich sollte es auch für die KI angestrebt werden, andernfalls muss zumindest mit negativen Folgen, wenn nicht existenziellen Gefahren, gerechnet werden, wie sie im Zusammenhang mit nuklearer Energie und Waffentechnik, Automatisierung industrieller Fertigung und Verbrennungstechnologien aufgetreten sind und noch heute auftreten.
-Ein Teil der Wissenschaft und Industrie in den USA hat dafür inzwischen ein ausgeprägtes Bewusstsein ([Asilomar Konferenz zu KI, 2017](https://futureoflife.org/ai-principles/); [OpenAI](https://openai.com/); [Partnership on AI](https://www.partnershiponai.org/)).
+Die KI Technologie befindet sich in ihren Anfängen, ähnlich dem Stand der Gentechnologie der 1970er Jahre.
+Für letztere gilt als anerkannt, dass durch die Erarbeitung eines Regelkatalogs ([Asilomar Konferenz zu Genetik, 1975](https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA)), die Einführung von Ethikkommissionen und anderen Maßnahmen ein sich andeutendes Gefahrenpotential erfolgreich unter Kontrolle gebracht wurde.
+Auch im Fall der KI Technologie können Maßnahmen ergriffen werden, die negative Auswirkungen minimieren.
+Teile der Wissenschaft und Industrie in den USA haben  dafür inzwischen ein ausgeprägtes Bewusstsein ([Asilomar Konferenz zu KI, 2017](https://futureoflife.org/ai-principles/); [OpenAI](https://openai.com/); [Partnership on AI](https://www.partnershiponai.org/)).
 
-Mit diesem Preis sollen innovative Ideen und Projekte ausgezeichnet werden, die  Lösungen für eine gesamtgesellschaftlich-nachhaltige Entwicklung von KI aufzeigen oder bereitstellen.
+Mit diesem Preis sollen innovative Ideen und Projekte ausgezeichnet werden, die Lösungen für eine gesamtgesellschaftlich-nachhaltige Entwicklung von KI aufzeigen oder bereitstellen.
 Diese können aus allen Bereichen kommen. Besonders nahe liegen Technologie, Rechtswissenschaften, Politik und Journalismus.
 
 Weiterhin soll eine offene Diskussion zum Thema gefördert werden, zwischen sich für den Preis bewerbenden Gruppen, Vertretern aus Wissenschaft, Industrie und Politik und der  Öffentlichkeit.
